@@ -1,0 +1,20 @@
+2020-07-07 15:54:30 INFO  Log:62 - ****************************************************************************************
+2020-07-07 15:54:30 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       Validate_YOY_Report_with_Spend_and_Consumption_report        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-07-07 15:55:56 INFO  Log:81 - Login Successfull
+2020-07-07 15:56:07 INFO  Log:81 - Clicked  workspace_lnk
+2020-07-07 15:56:07 INFO  Log:81 - Toos_btn is visible on the page
+2020-07-07 15:56:18 INFO  Log:81 - Clicked  workspace_lnk
+2020-07-07 15:56:18 INFO  Log:81 - workspace selected
+2020-07-07 15:56:43 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-07-07 15:57:04 INFO  Log:81 - Forest Grove selected from client dropdown
+2020-07-07 15:57:16 INFO  Log:81 - ELECTRIC selected from utility dropdown
+2020-07-07 15:57:48 INFO  Log:81 - Clicked  spendConsumptionYOYDownloadArrow
+2020-07-07 15:57:49 INFO  Log:81 - SpendConsumptionYOY Report Downloaded to TestOutput
+2020-07-07 15:57:50 INFO  Log:81 - Forest Grove Selected
+2020-07-07 15:58:14 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and Consumption Selected
+2020-07-07 15:59:11 INFO  Log:81 - Clicked  spendConsumptionDownloadArrow
+2020-07-07 15:59:12 INFO  Log:81 - SpendConsumption Report Downloaded to TestOutput
+2020-07-07 15:59:12 INFO  Log:81 - Report Validation Started
+2020-07-07 15:59:27 INFO  Log:81 - Report Validation Pass
+2020-07-07 15:59:32 INFO  Log:75 - XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D       Validate_YOY_Report_with_Spend_and_Consumption_report       E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+2020-07-07 15:59:32 INFO  Log:76 - ****************************************************************************************

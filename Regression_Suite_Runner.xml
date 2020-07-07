@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.prokarma.qa.tests.Validate_YOY_Records_with_Spend_and_Consumption_report"/>
+      <class name="com.prokarma.qa.tests.Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

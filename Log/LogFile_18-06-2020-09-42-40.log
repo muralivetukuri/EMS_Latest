@@ -1,0 +1,20 @@
+2020-06-18 09:42:40 INFO  Log:62 - ****************************************************************************************
+2020-06-18 09:42:40 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-06-18 09:43:26 INFO  Log:81 - Login Successfull
+2020-06-18 09:43:37 INFO  Log:81 - Clicked  workspace_lnk
+2020-06-18 09:43:38 INFO  Log:81 - Toos_btn is visible on the page
+2020-06-18 09:43:48 INFO  Log:81 - Clicked  workspace_lnk
+2020-06-18 09:43:48 INFO  Log:81 - workspace selected
+2020-06-18 09:44:04 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-06-18 09:44:18 INFO  Log:81 - ADP/Forest Grove selected from client dropdown
+2020-06-18 09:44:30 INFO  Log:81 - ELECTRIC/LIGHT RENTAL selected from utility dropdown
+2020-06-18 09:45:45 INFO  Log:81 - SpendConsumptionYOY_table records saved to OUTPUT file YOYRecords1 sheet
+2020-06-18 09:46:10 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-06-18 09:46:34 INFO  Log:81 - ADP/Forest Grove selected from client dropdown
+2020-06-18 09:46:47 INFO  Log:81 - ELECTRIC/LIGHT RENTAL selected from utility dropdown
+2020-06-18 09:47:17 INFO  Log:81 - Clicked  spendConsumptionYOYDownloadArrow
+2020-06-18 09:47:19 INFO  Log:81 - SpendConsumptionYOY Report Downloaded to TestOutput
+2020-06-18 09:47:19 INFO  Log:81 - Report Validation Started
+2020-06-18 09:48:45 INFO  Log:81 - Report Validation Pass
+2020-06-18 09:48:48 INFO  Log:75 - XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report       E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+2020-06-18 09:48:48 INFO  Log:76 - ****************************************************************************************
